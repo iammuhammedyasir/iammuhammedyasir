@@ -1,6 +1,5 @@
 👋 Hey there! I'm Yasir
 🔹 Passionate about deep learning, computer vision, and AI.
-🔹 Currently working on accident detection using YOLOv8 with PyTorch and CUDA 12.1.
 🔹 Love experimenting with machine learning models and optimizing performance.
 
 📫 Let's Connect:
